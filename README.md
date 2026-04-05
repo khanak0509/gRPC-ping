@@ -31,10 +31,7 @@ dart run bin/grpc_ping.dart --no-local --host myserver.com --port 50051
 ## What the output looks like
 
 ```
-╔══════════════════════════════╗
-║      grpc_ping  v0.1.0       ║
-║   Dart gRPC Testing Tool     ║
-╚══════════════════════════════╝
+
 Target: localhost:50051
 
 METHOD                TYPE        STATUS    LATENCY     REQ      RES      MSGS
